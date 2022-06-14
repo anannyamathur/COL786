@@ -7,6 +7,6 @@ For every neuron, we had different frames of the movie stimuli that covered twic
 ### Results-
 | Target Image   | Reconstructed Image |
 | ------- | ------- |
-|         |         |
+|![image](https://user-images.githubusercontent.com/78497850/173567339-0b5620df-c915-40a9-966d-8422dbe9f835.png)         |   ![image](https://user-images.githubusercontent.com/78497850/173567527-34b82804-4c65-4a32-8406-999c8596e67d.png)      |
 |         |         |
 
